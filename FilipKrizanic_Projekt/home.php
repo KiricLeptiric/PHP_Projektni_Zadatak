@@ -1,0 +1,21 @@
+<?php 
+	print '
+	<h1>Experience the Elegance and Innovation of Mercedes-Benz</h1>
+	<figure>
+		<img src="img/mercedes5.jpg" alt="HTML5" title="MercedesBenz">
+		<figcaption>Driven by excellence, inspired by you. Performance, luxury, and style in perfect harmony.
+		</figcaption>
+	</figure>
+	<p>Carl (or Karl) Friedrich Benz born Karl Friedrich Michael Vaillant; 25 November 1844 – 4 April 1929) was a German engine designer and automotive engineer.</p>
+	<p>Mercedes-Benz traces its origins to Karl Benz first internal combustion engine in a car, seen in the Benz Patent Motorwagen – financed by Bertha Benz dowry and patented in January 1886. In 1871, at the age of twenty-seven, Benz joined August Ritter, in launching the Iron Foundry and Mechanical Workshop in Mannheim, later renamed Factory for Machines for Sheet-metal Working.</p>
+	<p>His Benz Patent-Motorwagen from 1885 is considered the first practical modern automobile and first car put into series production. He received a patent for the motorcar in 1886, the same year he first publicly drove the Benz Patent-Motorwagen. Despite the business misfortunes, Benz led in the development of new engines in the early factory he and his wife owned. To get more revenue, in 1878 he began to work on new patents. First, he concentrated on creating a reliable petrol two-stroke engine. Benz finished his two-stroke engine on 31 December 1879, and was granted a patent for it on 28 June 1880.</p>
+	<p>His company Benz & Cie., based in Mannheim, was the worlds first automobile plant and largest of its day. In 1926, it merged with Daimler Motoren Gesellschaft to form Daimler-Benz, which produces the Mercedes-Benz among other brands. While designing what would become the production standard for his two-stroke engine, Benz patented the speed regulation system, the ignition using sparks with battery, the spark plug, the carburetor, the clutch, the gear shift, and the water radiator.</p>
+	<p>Benz is widely regarded as "the father of the car", as well as the "father of the automobile industry". Benzs lifelong hobby brought him to a bicycle repair shop in Mannheim owned by Max Rose and Friedrich Wilhelm Eßlinger. In 1883, the three founded a new company producing industrial machines: Benz & Companie Rheinische Gasmotoren-Fabrik, usually referred to as Benz & Cie. Quickly growing to twenty-five employees, it soon began to produce static gas engines as well.</p>
+	<p>Carl Benz was born Karl Friedrich Michael Vaillant on 25 November 1844 in Mühlburg, now a borough of Karlsruhe, Baden-Württemberg, which is part of modern Germany. His parents were Josephine Vaillant and a locomotive driver, Johann Georg Benz, whom she married a few months later. According to German law, the child acquired the name "Benz" by legal marriage of his parents. When he was two years old, his father died of pneumonia, and his name was changed to Karl Friedrich Benz in remembrance of his father. Benz began to sell the vehicle (advertising it as "Benz Patent-Motorwagen") in the late summer of 1888, making it the first commercially available automobile in history. The second customer of the Motorwagen was a Parisian bicycle manufacturer  Emile Roger, who had already been building Benz engines under license from Benz for several years. Roger added the Benz automobiles (many built in France) to the line he carried in Paris and initially most were sold there.</p>
+	<p>Source: <a href="https://en.wikipedia.org/wiki/Carl_Benz" target="_blank">Wikipedia</a></p>
+	<p>Social media:<br>
+		<a href="https://x.com/MercedesBenz" target="_blank"><img src="img/x.png" alt="X" title="X" style="width:24px; margin-top:0.4em"></a>
+		<a href="https://www.youtube.com/watch?v=R1vsBITv5Ro" target="_blank"><img src="img/youtube.png" alt="Youtube" title="Youtube" style="width:24px; margin-top:0.4em"></a>
+		<a href="https://en.wikipedia.org/wiki/Carl_Benz" target="_blank"><img src="img/wikipedia.png" alt="Google+" title="Google+" style="width:24px; margin-top:0.4em"></a>
+	</p>';
+?>
